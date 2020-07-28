@@ -1,3 +1,4 @@
 # Note application express backend
 
-# Run the app on port 3000 using `npm run start`
+> Rename `.env_sample` to `.env`, add username and password for db.
+> Run the app on port 3000 using `npm run start`
